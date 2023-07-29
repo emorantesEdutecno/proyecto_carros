@@ -1,0 +1,40 @@
+{
+   "landing":[
+      {
+         "imagen":"https://www.areainformatica.com.co/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-12-at-11.50.14-AM.jpeg",
+         "titulo":"Ley Cati: Comenzó el plan piloto en la RM",
+         "autor":"Nicolas G.",
+         "fecha":"20 Jul"
+      },
+      {
+         "imagen":"https://images.ctfassets.net/fawq95y6n8yp/7A4VugJEOsRK4wdM2kK2Xz/46cbc6a14683e0c118e40567b8cde30a/1660_Ford_shares_and_trucks_are_getting_traction.jpg",
+         "titulo":"Conoce los autos más buscados por los chilenos",
+         "autor":"Nicolas G.",
+         "fecha":"20 Jul"
+      },
+      {
+         "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SERNAC.png/640px-SERNAC.png",
+         "titulo":"Chevrolet y MG: Sernac emite alerta de seguridad",
+         "autor":"Nicolas G.",
+         "fecha":"19 Jul"
+      },
+      {
+         "imagen":"https://www.carroya.com/noticias/sites/default/files/entradillas/363110697cuidadosalllevarunninoencarro.jpg",
+         "titulo":"Qué dice la normatividad sobre el traslado de niños",
+         "autor":"Nicolas G.",
+         "fecha":"12 Jul"
+      },
+      {
+         "imagen":"https://neumateco.com/modules/ph_simpleblog/covers/10-thumb.jpg",
+         "titulo":"Neumáticos desgastados ¿Qué tan peligrosos son?",
+         "autor":"Nicolas G.",
+         "fecha":"29 Jun"
+      },
+      {
+         "imagen":"https://static.motor.es/fotos-noticias/2019/05/conoces-la-diferencia-frenos-de-disco-vs-frenos-de-tambor-201212483-1557849763_4.jpg",
+         "titulo":"Frenos de Disco y de Tambor ¿En qué se diferencian?",
+         "autor":"Nicolas G.",
+         "fecha":"16 Jun"
+      }
+   ]
+}

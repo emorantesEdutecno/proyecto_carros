@@ -1,0 +1,82 @@
+{
+   "carros":[
+      {
+         "id":"1",
+         "titulo":"2022 Changan Alsvin 1.4 Comfort",
+         "imagenes":[
+            "https://chileautos.pxcrush.net/cars/dealer/d6bclnyx9lcvse1ormpyzcxb4.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/b3b2rnsh52qg024jreqj1xj8y.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/2g6tg24ldq0s8nmfb7fqlgkfp.jpg"
+         ],
+         "costo":"$9,980,000 CLP",
+         "transmision":"Manual",
+         "combustible":"Bencina",
+         "rendimiento":"16.2 Kms/Lt"
+      },
+      {
+         "id":"2",
+         "titulo":"2023 Chery Tiggo 3 1.5 GLS",
+         "imagenes":[
+            "https://chileautos.pxcrush.net/cars/dealer/8bb77tcs2hhdvi8o7ukuvtnvu.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/ds4jzoncygsucswwo0p2piq50.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/e9ya81jfypw6py3ev01wt1xl8.jpg"
+         ],
+         "costo":"$10,790,000 CLP",
+         "transmision":"Manual",
+         "combustible":"Bencina",
+         "rendimiento":"13.8 Kms/Lt."
+      },
+      {
+         "id":"3",
+         "titulo":"2023 Chevrolet Silverado 3.0TD High Country Auto DC 4WD",
+         "imagenes":[
+            "https://chileautos.pxcrush.net/cars/dealer/9ljpyh7xmu67dme7lll1rm6nq.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/et0rzs1w8x31kh8gvt4chz4fx.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/bp3h6ecpkwgvpwxch2vk7cprt.jpg"
+         ],
+         "costo":"$67,990,000 CLP",
+         "transmision":"Automatica",
+         "combustible":"Diesel",
+         "rendimiento":"11.9 Kms/Lt."
+      },
+      {
+         "id":"4",
+         "titulo":"2023 Ford F-150 3.5 Platinum Auto Ecoboost 4WD",
+         "imagenes":[
+            "https://chileautos.pxcrush.net/cars/dealer/75o4oeo717ppuh9410fb0wma.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/ejblj7wzgms07335ov6hv4uc6.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/5mb9qd05crttexn0t0hdghgu4.jpg"
+         ],
+         "costo":"$58,592,100 CLP",
+         "transmision":"Automatica",
+         "combustible":"Bencina",
+         "rendimiento":"7.6 Kms/Lt."
+      },
+      {
+         "id":"5",
+         "titulo":"2023 Hyundai Tucson 2.0 Auto Plus",
+         "imagenes":[
+            "https://chileautos.pxcrush.net/cars/dealer/8g453bxseem8yr5ien075zy8u.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/9333wwxk44h2ahwgorragnnwp.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/9nz81krpsy9btc62rhxcld4xy.jpg"
+         ],
+         "costo":"$20,990,000 CLP",
+         "transmision":"Automatica",
+         "combustible":"Bencina",
+         "rendimiento":"12.4 Kms/Lt."
+      },
+      {
+         "id":"6",
+         "titulo":"2023 Jac T8 2.0D Pro Advance 4WD",
+         "imagenes":[
+            "https://chileautos.pxcrush.net/cars/dealer/duoscydtlzi2xde3r725yg1nk.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/bd5vzdexazpl125zhs3sf90pf.jpg",
+            "https://chileautos.pxcrush.net/cars/dealer/2vaaqu1uvok3grhxc8byhpwco.jpg"
+         ],
+         "costo":"$21,173,500 CLP",
+         "transmision":"Manual",
+         "combustible":"Diesel",
+         "rendimiento":"1.9 Kms/Lt."
+      }
+   ]
+}
